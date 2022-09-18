@@ -504,13 +504,13 @@ textarea,
     order: 1
 }
 .typeWindows-2-g3UY > .wordmark-2u86JB:before {
-    content: "ClearVision";
+    content: "ExCord";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 .typeWindows-2-g3UY > .wordmark-2u86JB:after {
-    content: "v6.3.0";
+    content: "Reloaded";
     color: rgba(255, 255, 255, .3);
     font-family: var(--code-font);
     font-size: 10px
